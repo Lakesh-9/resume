@@ -1,6 +1,6 @@
 # Site settings
-title: John Doe's Resume
-description: John Doe's professional resume and portfolio.
+title: "John Doe’s Resume"
+description: "John Doe’s professional resume and portfolio."
 baseurl: "" # leave this empty if deploying to the root of a GitHub Pages site
 url: "https://yourusername.github.io" # your GitHub Pages URL
 
